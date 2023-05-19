@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://pwdds.vigorant.xyz
+
+# Sitemaps
+Sitemap: https://pwdds.vigorant.xyz/sitemap.xml
